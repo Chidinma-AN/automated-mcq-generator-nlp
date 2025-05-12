@@ -1,6 +1,7 @@
+ 
 # 🧠 Automated MCQ Generator using NLP
 
-This project automatically generates multiple-choice questions (MCQs) from any plain text file using **Natural Language Processing (NLP)** techniques like **TF-IDF** and **N-grams**.
+This project automatically generates multiple-choice questions (MCQs) from any textual data using **Natural Language Processing (NLP)** techniques like **TF-IDF** and **N-grams**. It is used to extract keywords that are important words in a given Plain text file.
 
 Perfect for:
 - Beginners
